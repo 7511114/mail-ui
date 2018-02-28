@@ -1,0 +1,6 @@
+info:
+  name: 邮件前端
+  contact: 邮件前端
+
+server:
+  port: 8778
